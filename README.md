@@ -100,3 +100,6 @@ Asuransi merupakan kebijakan finansial yang bertujuan untuk mengurangi biaya yan
 Melalui proyek ini, kami menggunakan teknik regresi untuk memprediksi biaya asuransi berdasarkan fitur-fitur tersebut, serta membandingkan performa model berdasarkan metrik evaluasi.
 
 Regresi Polinomial memberikan performa yang lebih baik dibandingkan Regresi Linear, ditunjukkan dengan nilai error yang lebih kecil pada semua metrik (MAE, MSE, dan RMSE). Ini mengindikasikan bahwa hubungan antara fitur dan biaya medis tidak sepenuhnya linear, dan model polinomial dapat menangkap kompleksitas hubungan tersebut dengan lebih baik.
+
+##Link Video Presentasi
+https://www.youtube.com/watch?v=mFhc8VAdjcg
