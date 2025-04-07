@@ -2,7 +2,7 @@
 
 # Prediksi Biaya Medis (Medical Cost Prediction)
 
-## Ikhtisar
+## Pendahuluan
 Proyek ini bertujuan untuk memprediksi biaya medis berdasarkan faktor-faktor individu seperti usia, BMI, jumlah anak, riwayat merokok, jenis kelamin, dan wilayah. Dengan menggunakan teknik machine learning, kami mengembangkan model regresi untuk memperkirakan biaya perawatan kesehatan secara akurat.
 
 ## Informasi Proyek
@@ -71,7 +71,7 @@ Regresi Polinomial (derajat 2) mengungguli Regresi Linear dalam semua metrik eva
 ## Cara Penggunaan
 
 ### Prasyarat
-- Python 3.x
+- Python 3.10
 - Library yang diperlukan: numpy, pandas, matplotlib, seaborn, scikit-learn
 
 ### Instalasi
